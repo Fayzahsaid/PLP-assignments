@@ -1,0 +1,49 @@
+1. Why is timely delivery crucial in software project management, and how can project managers ensure deadlines are met?
+Timely delivery is important because it ensures users get the software when they need it, prevents cost overruns, and maintains
+stakeholder trust. Project managers can use scheduling tools, break tasks into milestones, set realistic deadlines, and monitor progress regularly.
+
+2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+Cost control ensures resources are used efficiently and the project remains financially viable. Strategies include detailed budgeting, tracking expenses, 
+prioritizing essential features, and avoiding unnecessary changes.
+
+3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+Agile: Flexible, user feedback-driven, but requires continuous involvement.
+Waterfall: Structured, better for fixed requirements, but less adaptable to changes.
+
+4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa?
+Agile: Best for projects that need frequent updates, like assistive AI tools for the blind.
+Waterfall: Best for projects with fixed requirements, like an ATM interface for visually impaired users.
+
+5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+Methods include usability testing, accessibility compliance checks, automated testing, and feedback from blind users. High standards ensure the software is reliable, 
+accessible, and easy to use.
+
+6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+A clear scope prevents feature creep and keeps the project focused. WBS breaks the project into small tasks (e.g., voice navigation, Braille support) to improve tracking
+and resource allocation.
+
+7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+A schedule keeps tasks on track, ensuring timely delivery. Gantt charts provide a visual timeline of tasks, showing dependencies and deadlines clearly.
+
+8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+The software aims to help blind users navigate digital devices easily through voice commands, screen reading, and haptic feedback. This is important as it
+enhances independence and accessibility.
+
+9. How can clearly defining the problem help in developing a more effective software solution?
+A well-defined problem ensures the solution is user-centered, focusing on essential accessibility needs rather than unnecessary features.
+
+10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+It’s an intelligent assistive tool that helps blind users interact with digital devices through voice control, audio feedback, and touch navigation.
+
+11. What are the main features or functionalities that make your software stand out?
+AI-powered voice assistant
+Screen reader with natural voice output
+Gesture and Braille-based input support
+Real-time object recognition for navigation
+
+12. What data is available regarding the market size and growth potential for your software?
+The assistive technology market is growing due to increasing awareness of digital accessibility. Many organizations are investing in solutions 
+for visually impaired users.
+
+13. How can understanding market trends inform your software’s positioning and development?
+By analyzing trends like AI-driven accessibility and smartphone-based assistive tools, the software can be designed to be innovative, affordable, and widely adoptable.
